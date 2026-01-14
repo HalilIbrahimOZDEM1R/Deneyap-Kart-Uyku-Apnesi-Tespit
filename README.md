@@ -41,15 +41,15 @@ Apne tespitinde kısa süreli yüksek frekanslı bip sesi
 Diğer durumlarda sistem sessiz çalışır
 
 Kullanılan Donanımlar:
-Deneyap Kart 1a v1
-Deneyap 6 Eksenli Ataletsel Ölçüm Birimi
-Deneyap OLED ekran
+Deneyap Kart 1a v1 ,
+Deneyap 6 Eksenli Ataletsel Ölçüm Birimi ,
+Deneyap OLED ekran ,
 Buzzer
 
   Kullanılan Yazılım:
 Deneyapkart IDE
 
   Kullanılan kütüphaneler:
-Deneyap_6EksenAtaletselOlcumBirimi
-Deneyap_OLED
+Deneyap_6EksenAtaletselOlcumBirimi ,
+Deneyap_OLED ,
 Arduino Core Libraries
